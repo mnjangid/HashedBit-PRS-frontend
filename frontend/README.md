@@ -136,6 +136,10 @@ VITE_API_URL=http://localhost:5000
 
 ---
 
+## 🔗 Backend Repository
+
+https://github.com/mnjangid/HashedBit-PRS-Backend.git
+
 ## 👨‍💻 Author
 
 **Manmohan Jangid**
